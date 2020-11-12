@@ -25,7 +25,7 @@
     "dotenv": "^8.0.0",
     "foundation-sites": "~6.5.3",
     "highlight.js": "^9.15.10",
-    "ionicons": "~2.0.1",
+    "ionicons": "~5.2.3",
     "js-cookie": "^2.2.1",
     "lodash.groupby": "^4.6.0",
     "md5": "^2.3.0",
