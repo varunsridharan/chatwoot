@@ -68,7 +68,7 @@ gem 'wisper', '2.0.0'
 # TODO: bump up gem to 2.0
 gem 'facebook-messenger', '1.5.0'
 gem 'telegram-bot-ruby'
-gem 'twilio-ruby', '~> 5.32.0'
+gem 'twilio-ruby', '~> 5.42.0'
 # twitty will handle subscription of twitter account events
 # gem 'twitty', git: 'https://github.com/chatwoot/twitty'
 gem 'twitty'
