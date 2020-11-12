@@ -1,11 +1,4 @@
 GIT
-  remote: https://github.com/sds/mock_redis
-  revision: 16d00789f0341a3aac35126c0ffe97a596753ff9
-  ref: 16d00789f0341a3aac35126c0ffe97a596753ff9
-  specs:
-    mock_redis (0.22.0)
-
-GIT
   remote: https://github.com/tzmfreedom/json_refs
   revision: e32deb073ce9aef39bdd63556bffd7fe7c2a803d
   ref: e32deb0
@@ -302,6 +295,7 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.14.2)
+    mock_redis (0.26.0)
     momentjs-rails (2.20.1)
       railties (>= 3.1)
     msgpack (1.3.3)
@@ -595,7 +589,7 @@ DEPENDENCIES
   listen
   maxminddb
   mini_magick
-  mock_redis!
+  mock_redis
   pg
   pry-rails
   puma
