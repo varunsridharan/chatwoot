@@ -506,7 +506,7 @@ GEM
       nokogiri (>= 1.6, < 2.0)
     twitty (0.1.1)
       oauth
-    tzinfo (1.2.7)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
     tzinfo-data (1.2020.1)
       tzinfo (>= 1.0.0)
@@ -518,7 +518,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     uniform_notifier (1.13.0)
-    valid_email2 (3.3.1)
+    valid_email2 (3.5.0)
       activemodel (>= 3.2)
       mail (~> 2.5)
     virtus (1.0.5)
@@ -549,7 +549,7 @@ GEM
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
     wisper (2.0.0)
-    zeitwerk (2.4.0)
+    zeitwerk (2.4.1)
 
 PLATFORMS
   ruby
