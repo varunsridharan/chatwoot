@@ -30,7 +30,7 @@
     "lodash.groupby": "^4.6.0",
     "md5": "^2.3.0",
     "query-string": "5",
-    "spinkit": "~1.2.5",
+    "spinkit": "~2.0.1",
     "tailwindcss": "^1.9.6",
     "tween.js": "~16.6.0",
     "url-loader": "^2.0.0",
