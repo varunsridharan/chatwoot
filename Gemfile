@@ -47,7 +47,7 @@ gem 'redis-rack-cache'
 gem 'dotenv-rails'
 gem 'foreman'
 gem 'puma'
-gem 'webpacker', '~> 5.x'
+gem 'webpacker', '~> 6.pre'
 # metrics on heroku
 gem 'barnes'
 
