@@ -149,7 +149,7 @@ GEM
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     crass (1.0.6)
-    cypress-on-rails (1.8.0)
+    cypress-on-rails (1.8.1)
       rack
     database_cleaner (1.8.5)
     datetime_picker_rails (0.0.7)
@@ -569,7 +569,7 @@ DEPENDENCIES
   bullet
   bundle-audit
   byebug
-  cypress-on-rails (~> 1.0)
+  cypress-on-rails (~> 1.8)
   database_cleaner
   devise
   devise_token_auth

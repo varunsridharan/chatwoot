@@ -111,7 +111,7 @@ end
 
 group :test do
   # Cypress in rails.
-  gem 'cypress-on-rails', '~> 1.0'
+  gem 'cypress-on-rails', '~> 1.8'
   # fast cleaning of database
   gem 'database_cleaner'
 end
