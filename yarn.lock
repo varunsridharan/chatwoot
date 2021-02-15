@@ -1227,6 +1227,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@stencil/core@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.4.0.tgz#17b45629c8986e35dcbce3f7dab7d64beede83f2"
+  integrity sha512-gU6+Yyd6O0KrCSS/O6j8KKqmRo+/Dcs2fI0+APCpbAWK+nqhwDISpdnSEfGDCLMoAC08XOZCycBRk2K1VGnEcg==
+
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.9"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.9.tgz#77e59d438522a6fb898fa43dc3455c6e72f3963d"
@@ -5588,10 +5593,12 @@ invariant@^2.2.2, invariant@^2.2.4:
   dependencies:
     loose-envify "^1.0.0"
 
-ionicons@~2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-2.0.1.tgz#ca398113293ea870244f538f0aabbd4b5b209a3e"
-  integrity sha1-yjmBEyk+qHAkT1OPCqu9S1sgmj4=
+ionicons@~5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.5.0.tgz#74ab783be11bee60e4351153c80b6d0682e5125a"
+  integrity sha512-0DUHTeoIrGSY+KNyNDaQW7v5+mDstjSkjx8dzT925kXKYBDrN3sGs8kUcSSQbTK132U4CbgDEZkn7FDUa9x8Qw==
+  dependencies:
+    "@stencil/core" "^2.4.0"
 
 ip-regex@^2.1.0:
   version "2.1.0"
