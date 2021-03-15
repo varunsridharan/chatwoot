@@ -312,7 +312,7 @@ GEM
     nio4r (2.5.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-    oauth (0.5.4)
+    oauth (0.5.5)
     orm_adapter (0.5.0)
     os (1.1.1)
     parallel (1.19.2)
@@ -504,7 +504,7 @@ GEM
       faraday (~> 1.0.0)
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
-    twitty (0.1.1)
+    twitty (0.1.2)
       oauth
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
