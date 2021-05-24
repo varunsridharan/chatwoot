@@ -22,7 +22,7 @@
     "copy-text-to-clipboard": "^2.1.1",
     "core-js": "3",
     "date-fns": "^2.16.1",
-    "dotenv": "^8.0.0",
+    "dotenv": "^10.0.0",
     "foundation-sites": "~6.5.3",
     "highlight.js": "^9.15.10",
     "ionicons": "~2.0.1",
