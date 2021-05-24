@@ -297,7 +297,9 @@ GEM
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2020.0512)
-    mimemagic (0.3.5)
+    mimemagic (0.3.10)
+      nokogiri (~> 1)
+      rake
     mini_magick (4.10.1)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
@@ -500,8 +502,8 @@ GEM
     time_diff (0.3.0)
       activesupport
       i18n
-    twilio-ruby (5.32.0)
-      faraday (~> 1.0.0)
+    twilio-ruby (5.54.0)
+      faraday (>= 0.9, < 2.0)
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
     twitty (0.1.1)
@@ -626,7 +628,7 @@ DEPENDENCIES
   telegram-bot-ruby
   telephone_number
   time_diff
-  twilio-ruby (~> 5.32.0)
+  twilio-ruby (~> 5.54.0)
   twitty
   tzinfo-data
   uglifier
